@@ -1,13 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/127.0.0.1:1313/the-best-films-of-jerry-2015-2018/</loc>
+    <loc>https://jerryxuqwq.github.io/the_best_film/</loc>
     <lastmod>2019-02-17T19:15:17+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/127.0.0.1:1313/</loc>
+    <loc>https://jerryxuqwq.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerryxuqwq.github.io/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerryxuqwq.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
